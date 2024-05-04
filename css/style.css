@@ -1,6 +1,22 @@
-h1 {
-  color: crimson;
+/* type selectors */
+/* Id selectors */
+/* class selectors */
+
+/* css rules */
+/* selectors */
+/* declaration blocks */
+/* declaration */
+/* property */
+/* value */
+.green {
+  color: green;
 }
-h2 {
-  color: aquamarine;
+.red {
+  color: red;
+}
+#title {
+  font-size: 40px;
+}
+.lowercase {
+  text-transform: lowercase;
 }
